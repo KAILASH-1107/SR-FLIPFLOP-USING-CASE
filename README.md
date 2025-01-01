@@ -1,5 +1,5 @@
 # SR-FLIPFLOP-USING-CASE
-
+# DATE : 31-10-2024 
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
@@ -67,14 +67,17 @@ endmodule
 **RTL LOGIC FOR FLIPFLOPS**
 
 
+![Screenshot (75)](https://github.com/user-attachments/assets/7a402201-0ca6-4b10-8ccb-efa0dad0e396)
+
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 
 
+![Screenshot (76)](https://github.com/user-attachments/assets/cb9b70c6-8d62-4fa7-a46b-1e2d236ffdaf)
 
-387684790-36b0b394-8cea-410a-9ec8-1b3eb2472f54
 
 
 
